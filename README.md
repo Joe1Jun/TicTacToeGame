@@ -15,19 +15,19 @@ This Java program implements a simple Tic-Tac-Toe game using a 2D array. It allo
    - Open your terminal.
    - Clone the repository using:
      ```bash
-     git clone https://github.com/your-username/tic-tac-toe-java.git
+     https://github.com/Joe1Jun/TicTacToeGame.git
      ```
 
 2. **Compile the Java Code:**
    - Navigate to the project directory and compile the Java file using:
      ```bash
-     javac TicTacToe.java
+     javac TicTacToeGame.java
      ```
 
 3. **Run the Game:**
    - Run the compiled program with:
      ```bash
-     java TicTacToe
+     java TicTacToeGame
      ```
 
 4. **Play the Game:**
