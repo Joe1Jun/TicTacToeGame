@@ -21,13 +21,13 @@ This Java program implements a simple Tic-Tac-Toe game using a 2D array. It allo
 2. **Compile the Java Code:**
    - Navigate to the project directory and compile the Java file using:
      ```bash
-     javac TicTacToeGame.java
+     javac ie/atu/sw/TicTacToeGame.java
      ```
 
 3. **Run the Game:**
    - Run the compiled program with:
      ```bash
-     java TicTacToeGame
+     java ie.atu.sw.TicTacToeGame
      ```
 
 4. **Play the Game:**
